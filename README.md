@@ -1,5 +1,5 @@
-Project Details:
-•	Flight delay – Determine whether or not a flight will be delayed.
+##Flight delay
+– Determine whether or not a flight will be delayed.
 o	You work for a travel booking website that seeks to improve the customer experience for people whose flights were delayed. 
 o	The company wants to let customers know, when they book their flights, if their flights will be delayed due to weather. 
 o	You need to use ML to identify whether a flight will be delayed due to weather. 
